@@ -2,7 +2,7 @@
 
 https://github.com/IDOYGAMING/UTS_MOBILE/assets/130022256/d2a81a84-bd92-46fe-afc4-49017eb3e808
 
-# mobile_uts
+# UTS Pemrograman Mobile
 
 Nama : Robby Firmansyah
 
